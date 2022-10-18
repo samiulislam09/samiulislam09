@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samiul Islam</h1>
+<h1 align="center">Hi, I'm Samiul Islam</h1>
 <h3 align="center">Software developer with ability to adopt in both self-starting and collaborative environments while staying focused on achiving high quality results under strict deadlines.Ability to grasp the ideas of the clients and implement in the same direction.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiulislam09&label=Profile%20views&color=0e75b6&style=flat" alt="samiulislam09" /> </p>
