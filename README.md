@@ -5,9 +5,9 @@
 
 
 
-- 🌱 I’m currently learning **Next.js, Graphql, Redux**
+- 🌱 I’m currently learning **Dart, Flutter, Android, IOS**
 
-- 💬 Ask me about **React, Next.js, JavaScript**
+- 💬 Ask me about **C, C++, Java, Dart, Flutter**
 
 - 📫 How to reach me **samiulislamsawon09@gmail.com**
 
