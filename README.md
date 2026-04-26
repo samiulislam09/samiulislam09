@@ -1,66 +1,108 @@
-# Hi, I'm Samiul Islam 👋
+# Hi, I'm Samiul Islam 👋  
 
-## Junior Software Engineer
+## Software Engineer (Full-Stack | JavaScript)
 
-**Full-stack developer specializing in modern web technologies. Passionate about creating scalable solutions and adapting quickly to new technologies while maintaining high-quality standards under tight deadlines.**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samiulislam09&label=Profile%20views&color=0e75b6&style=flat" alt="samiulislam09" /> </p>
-
-## 🚀 What I'm Up To
-
-- 💼 Currently working as **Junior Software Engineer** at **NauroBD**
-- 🔧 Daily tech stack: **Node.js, Next.js, React.js, JavaScript**
-- 🌱 Continuously learning and improving web development skills
-- 🎯 Building scalable full-stack web applications
-
-## 💼 Experience
-
-**Junior Software Engineer | NauroBD**  
-*March 2025 - Present*
-- Leading the migration of company website from Laravel to Node.js and Next.js
-- Improved user experience and significantly increased sales through modern web technologies
-- Working with full-stack JavaScript technologies for enhanced performance
-
-**Software Engineering Intern | European IT Institute**  
-*January 2025 - June 2025 (6 months)*
-- Gained hands-on experience in software development
-- Worked on various projects to strengthen programming fundamentals
-- Developed skills in modern web development practices
-
-## 💻 Tech Stack
-
-**Frontend:** React.js, Next.js, JavaScript, HTML5, CSS3  
-**Backend:** Node.js, Express.js  
-**Languages:** C, C++, Java, JavaScript  
-**Tools & Platforms:** Git, GitHub, VS Code
-
-## 💬 Let's Connect
-
-- 📧 Email: **samiulislamsawon09@gmail.com**
-- 📄 Resume: [View My Experience](https://drive.google.com/drive/folders/1ymDqZVJU9dJwwhgdGAxGxxBFutaQ5-2b?usp=sharing)
-- 💡 Ask me about: **React.js, Node.js, Next.js, Full-stack Web Development**
-
-## ⚡ Fun Fact
-I think I'm funny (and I probably am! 😄)
+Full-stack software engineer specializing in **Node.js, Next.js, and React.js**, with experience building **scalable, high-performance SaaS and eCommerce applications**. Strong focus on **system design, performance optimization, and clean architecture**.
 
 ---
 
-### 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samiul-islam-1700251a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/samiul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100008410999255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/samiulislamsawon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://medium.com/@samiulislamsawon09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/samiulislamsawo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sawon19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@samiulislamsawo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" /></a>
-</p>
+## 🚀 Professional Summary
 
-### 📊 GitHub Stats
+- 💼 Software Engineer with hands-on experience in **full-stack JavaScript development**  
+- ⚡ Skilled in building **scalable, production-ready web applications**  
+- 🔁 Experience in **system migration (Laravel → Node.js/Next.js)**  
+- 🛒 Worked on **SaaS-based eCommerce platforms (multi-tenant architecture)**  
+- 📈 Focused on **performance optimization, UX improvement, and business impact**  
+- 🤝 Experienced in **collaborative and agile development environments**  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiulislam09&show_icons=true&locale=en&layout=compact" alt="samiulislam09" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samiulislam09&show_icons=true&locale=en" alt="samiulislam09" /></p>
+## 💼 Experience
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samiulislam09&" alt="samiulislam09" /></p>
+### Software Engineer (Mid) | SeloraX  
+*January 2026 – Present*
+- Full-stack developer working on a **SaaS-based eCommerce platform** providing end-to-end business solutions  
+- Developing and maintaining **frontend (Next.js, React.js)** and **backend (Node.js, Express.js)** systems  
+- Building scalable features for **multi-tenant eCommerce applications**  
+- Designing, developing, and integrating **RESTful APIs**  
+- Enhancing **user experience (UX)** to improve engagement and conversions  
+- Optimizing **application performance, load time, and responsiveness**  
+- Collaborating with cross-functional teams to deliver features and business requirements  
+- Writing clean, maintainable, and production-ready code following best practices  
+
+---
+
+### Junior Software Engineer | NauroBD  
+*March 2025 – December 2025*
+- Migrated legacy system from **Laravel to Node.js and Next.js**  
+- Improved website performance and **increased sales through better UX and faster load times**  
+- Built and maintained **full-stack features using React.js and Node.js**  
+- Developed and consumed **REST APIs** for system integration  
+- Worked with database operations and backend logic optimization  
+
+---
+
+### Software Engineering Intern | European IT Institute  
+*January 2025 – June 2025*
+- Developed real-world projects using modern web technologies  
+- Strengthened fundamentals in **JavaScript, problem-solving, and system design**  
+- Collaborated in a team environment following **industry best practices**  
+
+---
+
+## 🛠️ Technical Skills
+
+### Frontend
+- React.js, Next.js, JavaScript (ES6+), HTML5, CSS3  
+
+### Backend
+- Node.js, Express.js, REST API Development  
+
+### Languages
+- JavaScript, C, C++, Java  
+
+### Tools & Technologies
+- Git, GitHub, VS Code  
+- API Integration, Performance Optimization  
+
+---
+
+## 📌 Key Strengths
+
+- Scalable Application Development  
+- SaaS & eCommerce Systems  
+- System Migration & Architecture  
+- Performance Optimization  
+- Clean Code & Maintainability  
+- Full-Stack Problem Solving  
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **samiulislamsawon09@gmail.com**  
+- 📄 Resume: https://drive.google.com/drive/folders/1ymDqZVJU9dJwwhgdGAxGxxBFutaQ5-2b  
+
+---
+
+## 🌐 Profiles
+
+- LinkedIn: https://www.linkedin.com/in/samiul-islam-1700251a2/  
+- Stack Overflow: https://stackoverflow.com/users/samiul-islam  
+- GitHub: https://github.com/samiulislam09  
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=samiulislam09&show_icons=true&locale=en&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samiulislam09&show_icons=true&locale=en)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samiulislam09&)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy solving complex problems and turning ideas into real-world scalable applications 🚀
