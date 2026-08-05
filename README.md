@@ -32,7 +32,7 @@ Full-stack software engineer specializing in **Node.js, Next.js, and React.js**,
 
 ---
 
-### Junior Software Engineer | NauroBD  
+### Junior Software Engineer | NaturoBD  
 *March 2025 – December 2025*
 - Migrated legacy system from **Laravel to Node.js and Next.js**  
 - Improved website performance and **increased sales through better UX and faster load times**  
